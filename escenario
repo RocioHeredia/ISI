@@ -1,0 +1,10 @@
+Escenario 1 - Caso de Uso Baja de un CURSO
+La subdirectora solicita dar de baja un curso
+
+El sistema solicita datos del curso: Tipo (Artes plásticas, capacitación docente, apoyo escolar, otros), código curso, cupo, duración, monto inscripción, monto de material, lugar (Iglesia, Caucete, Capital), monto total, pertenece red federal, fecha de inicio, fecha de finalización, Denominación, contenido de materias, estado (activo, suspendido, dado de baja), horario de dictado
+La directora ingresa datos del curso.
+El sistema busca curso( código curso)
+Sino existe
+El sistema informa curso no existente.
+Si existe
+El sistema informa baja de curso.
